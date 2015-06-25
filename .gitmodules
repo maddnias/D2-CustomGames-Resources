@@ -1,0 +1,3 @@
+[submodule "Resources/barebones"]
+	path = Resources/barebones
+	url = https://github.com/bmddota/barebones.git
