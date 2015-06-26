@@ -19,6 +19,7 @@ Resources for DotA 2 custom game creation
 * [Contributing](#contributing)
 
 ## Communities
+
  * [moddota forums](https://moddota.com/forums/)
  * [/r/Dota2Modding](https://www.reddit.com/r/Dota2Modding/)
  * [The Hive Workshop - Dota 2](http://www.hiveworkshop.com/forums/dota-2-723/)
@@ -27,6 +28,7 @@ Resources for DotA 2 custom game creation
 ## Repositories
 
 ### Custom games
+
 * [Legends of Dota](https://github.com/ash47/LegendsOfDota) | [Information](https://github.com/ash47/LegendsOfDota/blob/master/README.md)
 * [Dota Run](https://github.com/Kjagd/dotarun) | [Information](https://github.com/Kjagd/dotarun/blob/master/README.md)
 * [Ashenvale Archers](https://github.com/Agilethief/Dota2Ashenvale_Archers) | [Information](https://github.com/Agilethief/Dota2Ashenvale_Archers/blob/master/README.txt)
@@ -38,6 +40,7 @@ Resources for DotA 2 custom game creation
 * [Trolls and Elves](https://github.com/SinZ163/TrollsAndElves) | [Information](https://github.com/SinZ163/TrollsAndElves/blob/master/README.md)
 
 ### Resources
+
 * [Barebones](https://github.com/bmddota/barebones) | [Information](https://github.com/bmddota/barebones/blob/source2/README.md)
 * [Spell Library](https://github.com/Pizzalol/SpellLibrary) | [Information](https://github.com/Pizzalol/SpellLibrary/blob/SpellLibrary/README.md)
 * [Dota 2 VPK](https://github.com/dotabuff/d2vpk) | [Information](https://github.com/dotabuff/d2vpk/blob/master/README.md)
@@ -61,13 +64,16 @@ Resources for DotA 2 custom game creation
 ## Tutorials
 
 ### Starter guides
+
 * [Getting Started with Dota 2 Modding](https://moddota.com/forums/discussion/142/getting-started-with-dota-2-modding)
 * [Beginners Guide to Dota Scripting](https://moddota.com/forums/discussion/135/beginners-guide-to-dota-scripting)
 * [Setting up your Addon with GitHub](https://moddota.com/forums/discussion/165/setting-up-your-addon-with-github)
 * [Useful Console Commands](https://moddota.com/forums/discussion/143/useful-console-commands#latest)
 * [New API Wiki Pages](https://moddota.com/forums/discussion/290/new-api-wiki-pages#latest)
 * [Basic Dota 2 Addon lua scripting](http://yrrep.me/dota/dota-lua.html)
+
 ### Scripting
+
 * [Official Valve scripting documentation](https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting)
 * [DataDriven Ability Breakdown - Documentation](http://moddota.com/forums/discussion/14/datadriven-ability-breakdown-documentation)
 * [DataDriven Ability Events & Modifiers](http://moddota.com/forums/discussion/13/datadriven-ability-events-modifiers)
@@ -95,23 +101,31 @@ Resources for DotA 2 custom game creation
 * [Simple Custom Ability](https://moddota.com/forums/discussion/372/simple-custom-ability)
 * [An in-depth example of a Datadriven Ability](https://www.reddit.com/r/Dota2Modding/comments/2dgqvh/tutorial_an_indepth_example_of_a_datadriven/)
 * [A trigger_dota-based arrow trap](https://www.reddit.com/r/Dota2Modding/comments/2eptbr/tutorial_a_trigger_dotabased_arrow_trap/)
+
 ### Particle Design
+
 * [Particle Attachment](http://moddota.com/forums/discussion/69/particle-attachment)
 * [Extracting and Compiling VTEX files](http://moddota.com/forums/discussion/85/extracting-and-compiling-vtex-files)
 * [Particle Creation Series: Basics](http://moddota.com/forums/discussion/110/particles-creation-series)
 * [Particle Creation Series: Falling cherry blossom](http://moddota.com/forums/discussion/111/particles-creation-series-falling-cherry-blossom-petal-for-spring-mood)
 * [Particle Creation Series: Chaos Wave](http://moddota.com/forums/discussion/112/particles-creation-series-chaos-wave#latest)
 * [Volcano Particle Creation](https://moddota.com/forums/discussion/117/volcano-particle-creation)
+
 ### Panorama
+
 * [Valve's VCSS (CSS) Documentation](https://moddota.com/forums/discussion/358/valve-s-vcss-css-documentation)
 * [More Valve documentation](https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama)
+
 ### Video tutorials
+
 * [Dota 2 Reborn Tools: Project Folder Overview](https://www.youtube.com/watch?v=CoW2e_mbV9c)
 * [DOTA 2 workshop tools mod tutorial: How to make a DOTA-style map](https://www.youtube.com/watch?v=Jvkn4fO3kB4)
 * [How to make a map in DOTA 2 with Steam Workshop mod tools](https://www.youtube.com/watch?v=Jvkn4fO3kB4)
 * [Dota 2 Reborn - Install Intructions](https://www.youtube.com/watch?v=SCXCxTHlIrU)
 * [Source 2 Mapping Tutorial: Simple Custom Ability](https://www.youtube.com/watch?v=_wDoRXgrjBY)
+
 ### Miscellaneous
+
 * [Importing custom model into the map without any cosmetics](https://moddota.com/forums/discussion/95/importing-custom-model-into-the-map-without-any-cosmetics)
 
 ### Examples
