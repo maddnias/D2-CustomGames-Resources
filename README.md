@@ -38,6 +38,7 @@ Resources for DotA 2 custom game creation
 * [Reflex](https://github.com/bmddota/reflexdota) | [Information](http://steamcommunity.com/sharedfiles/filedetails/?id=299093466)
 * [Slide ninja slide](https://github.com/ynohtna92/SlideNinjaSlide) | [Information](#)
 * [Trolls and Elves](https://github.com/SinZ163/TrollsAndElves) | [Information](https://github.com/SinZ163/TrollsAndElves/blob/master/README.md)
+*  [Dota IMBA] (https://github.com/fcalife/dota_imba) | [Information] (http://dota2.gamepedia.com/Dota_IMBA)
 
 ### Resources
 
